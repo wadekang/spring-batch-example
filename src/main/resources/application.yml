@@ -1,0 +1,8 @@
+spring:
+  batch:
+    job:
+      enabled: false
+
+elasticsearch:
+  host: elasticsearch-lb
+  port: 9200
